@@ -24,4 +24,4 @@ jobs:
         run: npm install
 
       - name: Run application
-        run: node index.js
+        run: node hello.js
