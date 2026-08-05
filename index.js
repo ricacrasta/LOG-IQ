@@ -1,1 +1,1 @@
-abc();
+console.log("Hey,This is an AI log Analyzer!");
